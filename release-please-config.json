@@ -4,6 +4,9 @@
   "packages": {
     "aws/modules/s3-bucket": {
       "release-type": "terraform-module"
+    },
+    "aws/modules/vpc": {
+      "release-type": "terraform-module"
     }
   }
 }

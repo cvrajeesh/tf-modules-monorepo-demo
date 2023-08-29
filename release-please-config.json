@@ -1,5 +1,5 @@
 {
-  "aws-s3-buckey": {
+  "packages": {
     "aws/modules/s3-bucket": {
       "release-type": "terraform-module"
     }

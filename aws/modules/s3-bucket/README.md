@@ -36,5 +36,6 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_arn"></a> [arn](#output_arn) | S3 bucket arn |
+| <a name="output_domain_name"></a> [domain_name](#output_domain_name) | S3 bucket domain name |
 | <a name="output_id"></a> [id](#output_id) | S3 bucket name |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
